@@ -18,6 +18,6 @@ processed.py is the code for preprocessing.
 In this four classifiers are used namely SVM,Logistic Regression,SGD,KNN.They are mean to do the classification and then the accuracy is get calculated for comparison.
 
 
-![Valid output image](/OUTPUTS/main/assets/images/op.jpeg)
+![Valid output image](OUTPUTS/op.jpeg)
   
 
